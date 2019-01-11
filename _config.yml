@@ -4,12 +4,12 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://niklomax.github.io"
-baseurl: ""
+# url: "http://niklomax.github.io/QGISTutorial/"
+# baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+url: "http://niklomax.github.io/QGISTutorial/"
+baseurl: "/QGISTutorial"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -17,19 +17,19 @@ baseurl: ""
 title: Home
 
 # Short description of your site
-description: A course deivered at the BSPS Annual Conference 2016, Winchester
+description: A tutorial in using QGIS
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
   Exercises:
-  - Exercise 1: "https://niklomax.github.io/2016-08-29-exercise-1/"
-  - Exercise 2: "https://niklomax.github.io/2016-08-28-exercise-2/"
-  - Exercise 3: "https://niklomax.github.io/2016-08-27-exercise-3/"
-  - Exercise 4: "https://niklomax.github.io/2016-08-26-exercise-4/"
-  - Exercise 5: "https://niklomax.github.io/2016-08-25-Exercise-5/"
-  - Exercise 6: "https://niklomax.github.io/2016-08-24-Exercise-6/"
+  - Exercise 1: "https://niklomax.github.io/QGISTutorial/2016-08-29-exercise-1/"
+  - Exercise 2: "https://niklomax.github.io/QGISTutorial/2016-08-28-exercise-2/"
+  - Exercise 3: "https://niklomax.github.io/QGISTutorial/2016-08-27-exercise-3/"
+  - Exercise 4: "https://niklomax.github.io/QGISTutorial/2016-08-26-exercise-4/"
+  - Exercise 5: "https://niklomax.github.io/QGISTutorial/2016-08-25-Exercise-5/"
+  - Exercise 6: "https://niklomax.github.io/QGISTutorial/2016-08-24-Exercise-6/"
 
   
   Resources:
