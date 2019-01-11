@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/niklomax/QGISTutorial/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Exercise 1  - Getting Started
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Download the data folder to your Local Drive
+To carry out the exercises today you will need some data. Obtain a copy of the data now from the resources tab of `https://niklomax.github.io` (at the top right of this page).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Extract (unzip) this folder and put it somewhere in your directory where you can access it.
 
-```markdown
-Syntax highlighted code block
+### Launch QGIS
 
-# Header 1
-## Header 2
-### Header 3
+- On a Windows PC, QGIS can be found in the start menu - just type *QGIS* in to the search bar
 
-- Bulleted
-- List
+- On a Mac QGIS can be found by clicking Launchpad
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/niklomax/QGISTutorial/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Now move on to Exercise 2 and you can start making some maps!
